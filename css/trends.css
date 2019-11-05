@@ -1,0 +1,44 @@
+.MallImage {
+    width: 100%;
+    height: 320px;
+    opacity: 0.7;
+}
+
+.column {
+    flex: 20%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.StyleImage {
+    margin: 10px;
+    height: 270px;
+    width: 240px;
+}
+
+.banner_container {
+    position: relative;
+    text-align: center;
+}
+
+.SectionHeading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.CollectionImage {
+    width: 100%;
+    height: 150px;
+}
+
+.heading_3 {
+    text-align: center;
+    font-size: 30px;
+}
